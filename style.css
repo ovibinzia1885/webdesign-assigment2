@@ -1,0 +1,21 @@
+.penguien{
+    color:orange
+}
+.WINNER{
+    color: black;
+}
+.fenguine-color{
+    background-color:brown;
+}
+#header{
+    background-color: tan;
+}
+.card img{
+    width: 100px;
+    margin:0 auto;
+    text-align: center;
+}
+
+.flex-container{
+    flex-direction: row;
+}
